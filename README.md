@@ -27,7 +27,7 @@ Second-year Practical Computer Science student at the University of Gdańsk.
 ## GitHub Stats
 
 <div align="center">
-  <img height="140em" style="border: 2px solid #000000; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=jankotanime&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=merko" />
-  <img height="140em" style="border: 2px solid #000000; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankotanime&layout=compact&hide_border=true&theme=merko" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jankotanime&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=merko" style="border: 2px solid white; border-radius: 10px;" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankotanime&layout=compact&hide_border=true&theme=merko" style="border: 2px solid white; border-radius: 10px;" />
 </div>
 
