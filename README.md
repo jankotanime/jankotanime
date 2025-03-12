@@ -1,6 +1,6 @@
 # 👋
 
-Second-year Practical Computer Science student at the University of Gdańsk.
+Second-year Practical Computer Science student at the University of Gdańsk.</br>Interested in all types of technology but mostly in backend development and looking for project to expand my horizions.
 
 ## Technologies & Skills  
 
