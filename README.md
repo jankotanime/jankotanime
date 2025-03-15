@@ -20,14 +20,14 @@ Second-year Practical Computer Science student at the University of Gdańsk.</br
 
 | <div align="center"><img height="20" src="https://camo.githubusercontent.com/9c5bb04c0528e485bbc26146e50c477dd4ae978a95e8b024f5edd2e14e1b5b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d2532334533344632362e7376673f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"></div> <div align="center"><img height="20" src="https://camo.githubusercontent.com/b3cc2da9351159c65405c9eb1a1aca172e851da6e85d05008d6d7244d675318b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534353532d2532334343363639392e7376673f7374796c653d666c6174266c6f676f3d73617373266c6f676f436f6c6f723d7768697465"></div> | <div align="center"><img height="20" src="https://camo.githubusercontent.com/97d231a6e2374947183ff5d167c42754fd2b4687335e204ca6188cf102f8c6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d2532333333363739312e7376673f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"></div> | <div align="center"><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></div> |
 |-------------|------------|------|
-| <div align="center">Intermediate (4 years)</div> | <div align="center">Basic (2 year)</div> | |
+
 
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jankotanime&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=merko" style="border: 2px solid white; border-radius: 10px;" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankotanime&layout=compact&hide_border=true&theme=merko" style="border: 2px solid white; border-radius: 10px;" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jankotanime&show_icons=true&hide_border=false&count_private=true&hide=prs&theme=merko" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankotanime&layout=compact&hide_border=false&theme=merko" />
 </div>
 
