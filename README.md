@@ -1,10 +1,10 @@
 ## Hello there, I'm Jan
 
-Third-year Practical Computer Science student at the University of Gdańsk.</br>
-Fullstack developer with a primary focus on backend development, web security, and infrastructure.</br>
-Experienced in building secure and scalable backend systems and authentication solutions.</br>
-Also interested in C++ and game development, particularly systems programming and performance-oriented applications.</br>
-Passionate about cybersecurity, backend architecture, and game technologies.
+Software Developer with a strong focus on backend engineering, full-stack development, and modern software architecture. Experienced in building secure and scalable applications using Java, Spring Boot, TypeScript, and cloud-native technologies.
+
+Passionate about C++ development, systems programming, performance-oriented applications, and game development. Interested in exploring different areas of software engineering, from backend systems and infrastructure to low-level programming, computer vision, and game technologies.
+
+Experienced with designing APIs, authentication systems, containerized deployments, and applications across multiple domains. Continuously expanding knowledge and looking for opportunities to contribute to challenging software projects.
 
 ## Technologies & Skills  
 
